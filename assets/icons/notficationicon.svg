@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32.891" viewBox="0 0 32 32.891">
+  <g id="Notifications" transform="translate(4.843 -1.066)">
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="32" height="32" transform="translate(-4.843 1.066)" fill="#f1f2f6"/>
+    <g id="notification-solid-badged" transform="translate(-5.554 1.178)">
+      <path id="Path_554" data-name="Path 554" d="M18.713,32.779a5.075,5.075,0,0,0,4.9-4.335h-10A5.075,5.075,0,0,0,18.713,32.779Z" transform="translate(-2.906)" fill="rgba(41,48,58,0.4)"/>
+      <path id="Path_555" data-name="Path 555" d="M29.2,25l-.3-.267a12.773,12.773,0,0,1-2.231-2.6,11.227,11.227,0,0,1-1.2-4.276V13.466a9.707,9.707,0,0,0-.142-1.591A6.667,6.667,0,0,1,20,5.333v-.56a9.4,9.4,0,0,0-2.951-.889V2.764a1.187,1.187,0,0,0-2.373,0V3.928a9.609,9.609,0,0,0-8.267,9.538v4.391a11.227,11.227,0,0,1-1.2,4.276,12.8,12.8,0,0,1-2.2,2.6l-.3.267v2.507H29.2Z" fill="rgba(53,58,65,0.4)"/>
+      <path id="Path_556" data-name="Path 556" d="M31.111,5.333A4.445,4.445,0,1,1,26.667.888a4.444,4.444,0,0,1,4.444,4.445Z" fill="rgba(10,25,49,0.4)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 80 80">
+  <g id="add_patients" data-name="add patients" transform="translate(-292 -673)">
+    <path id="Path_572" data-name="Path 572" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" transform="translate(292 673)" fill="#0a1931"/>
+    <path id="plus-round" d="M57.5,31.505H40.108V14.113a4.305,4.305,0,0,0-8.6,0V31.505H14.113a4.305,4.305,0,0,0,0,8.6H31.505V57.5a4.305,4.305,0,0,0,8.6,0V40.108H57.5a4.305,4.305,0,0,0,0-8.6Z" transform="translate(296.194 677.194)" fill="#f1f2f6"/>
+  </g>
+</svg>
